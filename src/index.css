@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@layer utilities {
+  .font-playwrite {
+    font-family: "Playwrite AU QLD", sans-serif;
+  }
+  .font-Mulish {
+    font-family: "Mulish", sans-serif;
+  }
+  .font-Bitcount {
+    font-family: "Bitcount Prop Double", sans-serif;
+  }
+  .font-Roboto {
+    font-family: "Roboto", sans-serif;
+  }
+}
