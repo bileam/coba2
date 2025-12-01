@@ -129,16 +129,6 @@ const Navbar = () => {
               Order
             </Link>
           </li>
-          <li className="flex gap-1">
-            <img src={Lacak_icon} alt="" />
-            <a href="">Lacak</a>
-          </li>
-          <li className="">
-            <a href="" className="  flex gap-1">
-              <img src={Kontact_icon} alt="" />
-              <h1 className="font-normal">Kontak</h1>
-            </a>
-          </li>
         </ul>
       </div>
 
